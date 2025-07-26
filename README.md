@@ -1,2 +1,1 @@
-# Cartas-de-super-trunfo-cidades.c
-cartas de super trunfo
+#2 segundo
